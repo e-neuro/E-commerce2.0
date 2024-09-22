@@ -72,6 +72,9 @@ button{
     border-radius: 4px;
     padding: 10px 30px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .credentials{
     color:white;
