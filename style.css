@@ -82,8 +82,7 @@ button{
     font-size: 14px;
     display: flex;
     flex-wrap: wrap;
-    overflow: auto;
-    justify-content: space-around;
+    overflow-y: auto;
 }
 .credentials ul{
     list-style-type: none;
